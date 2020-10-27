@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="button01_text">Count my text!</string>
+    <string name="tvMain_text">Word Counter!</string>
+    <string-array name="mode">
+        <item>Words</item>
+        <item>Symbols</item>
+    </string-array>
+</resources>
